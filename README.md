@@ -1,9 +1,9 @@
 # HelloKitty-built
-This repository is for demonstrating character-building homework.
+This repository showcases character-building homework featuring Hello Kitty in various occupations.
 
 # Project Name
 
-TODO: Hello Kitty with a variety of occupations.
+TODO: Hello Kitty with a Variety of Occupations.
 
 ## Installation
 
@@ -23,11 +23,11 @@ Open the index file in your browser of choice.
 
 ## History
 
-TODO: Hello Kitty has been my favorite character since childhood. For this assignment, I've selected different versions of her, including the ballerina, cupid, driver, florist, mermaid, and the original Kitty.
+TODO: Hello Kitty has been a beloved character since my childhood. For this assignment, I've chosen to portray Hello Kitty in various roles, including ballerina, cupid, driver, florist, mermaid, and the original Kitty.
 
 ## Credits
 
-Kyuri Park
+Created by Kyuri Park
 
 ## License
 
