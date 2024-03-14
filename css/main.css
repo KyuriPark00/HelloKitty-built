@@ -237,7 +237,7 @@ footer {
   }
   
   .lb_text {
-    line-height: 28px;
+    line-height: 30px;
   }
   
   .lb_heading {
@@ -252,3 +252,19 @@ footer {
  #lightbox2 {
     background-image: url(../images/Cupid_LB_Bg.jpg);
  }
+
+#lightbox3 {
+    background-image: url(../images/Driver_LB_Bg.avif);
+}
+
+#lightbox4 {
+    background-image: url(../images/Florist_LB_Bg.jpg);
+}
+
+#lightbox5 {
+    background-image: url(../images/Mermaid_LB_Bg.jpg);
+}
+
+#lightbox6 {
+    background-image: url(../images/Ballerina_LB_Bg.jpg);
+}
